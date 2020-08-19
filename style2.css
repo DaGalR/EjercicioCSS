@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+}
+
+h2.primero {
+    color: blue;
+}
+
+h2.segundo {
+    color: orange;
+}
+
+p {
+    text-align: center;
+}
+
+#texto_azul {
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+}
+
